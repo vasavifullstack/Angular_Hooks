@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular_Hooks';
+  //title = 'AngularHooks_Oct';
+
+  subjectname = "angular"
+
+  //By using life cycle hooks you can control component related inforamtion.
+
 }
